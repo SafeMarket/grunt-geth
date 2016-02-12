@@ -7,7 +7,7 @@
   },
   "name": "grunt-geth",
   "description": "Spawn new geth instances from grunt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "grunt geth"
