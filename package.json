@@ -1,0 +1,30 @@
+{
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "name": "grunt-geth",
+  "description": "Spawn new geth instances from grunt",
+  "version": "0.1.1",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt geth"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafeMarket/grunt-geth.git"
+  },
+  "keywords": [
+    "grunt",
+    "geth",
+    "ethereum"
+  ],
+  "author": "Aakil Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SafeMarket/grunt-geth/issues"
+  },
+  "homepage": "https://github.com/SafeMarket/grunt-geth#readme"
+}
