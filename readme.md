@@ -2,10 +2,6 @@
 
 > Spawn geth instances from the command line
 
-## Examples
-
-https://github.com/SafeMarket/grunt-geth/tree/master/contracts
-
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
