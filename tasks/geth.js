@@ -33,7 +33,7 @@ module.exports = function(grunt){
 
 		})
 
-		console.log(options.bin,args.join(' '))
+		grunt.log.writeln('Running:',options.bin,args.join(' '))
 
 		var proc = cp.spawn(options.bin,args)
 
